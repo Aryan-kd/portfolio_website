@@ -1,0 +1,24 @@
+[
+  {
+    "role": "PHP Devloper",
+    "organisation": "Online Striker",
+    "startDate": "May, 2022",
+    "endDate": "July, 2022",
+    "experiences": [
+      "Worked on Redesigning Old Website",
+      "Create website using PHP"
+    ],
+    "imageSrc": "history/onlinestrikers.jpeg"
+  },
+  {
+    "role": "PHP Devloper",
+    "organisation": "Acemegrade",
+    "startDate": "Oct, 2021",
+    "endDate": "Dec, 2021",
+    "experiences": [
+      "Worked on MySQL Database",
+      "Designed User Friendly Website"
+    ],
+    "imageSrc": "history/acmegrade.webp"
+  }
+]
