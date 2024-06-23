@@ -1,19 +1,19 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Home Doctor",
+    "imageSrc": "projects/Home_Doctor.png",
+    "description": "This project predict disease and provide other neccessary info on it using symptoms.",
+    "skills": ["Python", "Flask", "HTML"],
+    "demo": "https://home-doctor.onrender.com",
+    "source": "https://github.com/Aryan-kd/Home_Doctor"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "OLX Sell",
+    "imageSrc": "projects/olx_sell.png",
+    "description": "This project is clone of olx where users can sell their old items to others.",
+    "skills": ["React", "Firebase", "SCSS"],
+    "demo": "https://olx-sell.web.app/",
+    "source": "https://github.com/Aryan-kd/olx_sell"
   },
   {
     "title": "Project C",
